@@ -1,2 +1,2 @@
 # hello-world
-test repo
+A simple test of a commit
